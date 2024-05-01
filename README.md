@@ -38,7 +38,19 @@ A processor (CPU) is the logic circuitry that responds to and processes the basi
 ![Screenshot (4)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/f37e74a8-1ec2-4d59-a744-b989f634ec32)
 
 
-#### From Software Applications to Hardware
+### From Software Applications to Hardware
+Application software enters into block called System software, system software converts the application program into binary language.
+The major components of the sysyem software are:
+  * OS: It handles the IO operations, allocates the memory and low level system functions. Major part of OS is that App is converted into Assembly language program and then it is coverted into binary language program.
+  * Compiler: It converts the output of OS, that is functions of C, C++, Java etc. into the instructions depending on the type of hardware.
+  * Assembler: It takes instructions and converts into respective binary numbers, this is basiucally called as machine language program.
+These binary language is fed to the hardware and it understands the execution and output as respect to the input.
+![Screenshot (5)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/e929eb4a-e40c-4794-9dc0-25e8d59ed2b2)
+
+Instructions acts as the Abstract interface between the C language and hardware, it is also called as Instruction Set Architecture or Architecture of the computer. This represents the architecture of Hardware.
+Another interface between instructions and hardware is called HDL. The instructions are implemented in in RTL and it is synthesized in Netlist and finally implementing the Netlist as Physical Design or Hardware.
+![Screenshot (6)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/07776bad-95fb-49ab-af48-b7d864edc36f)
+
 ### SoC design and OpenLANE
 ### Get familiar to open-source EDA tools
 
