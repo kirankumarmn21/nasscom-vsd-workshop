@@ -27,8 +27,17 @@ A processor (CPU) is the logic circuitry that responds to and processes the basi
 5. Die is the boundary around the chip.
 ![Screenshot 2024-04-30 224642](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/a051ec07-1009-4789-b2bc-ac55a7b412f1)
 
+##### Foundry IPs and Macros:
+  * basically foundry is the factory of chip manufacturing, the designers are communicated with the foundry by the interface files. IPs are intellectual Properties which are DAC,ADC, PLL and SRAM in the chip.
+  * Macros are pure digital logic present in the chip, which are SPI and RISCV SoC.
+![Screenshot 2024-05-01 195938](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/784f4ed8-048c-468f-bc69-10110257c199)
 
-#### Introduction to RISC-V
+### Introduction to RISC-V
+* RISC-V Instruction Set Architecture: It is a language which we are talk to computers. Consider, C program is compiled in its Assembly language program, this is converted into Machine language program (Binary), these binary bits are executed in the layout and we will get the required output.
+* the another way of interface is Hardware Discriptive Language (HDL). ISA is implemented on RTL, then RTL to layout (Standard PNR).
+![Screenshot (4)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/f37e74a8-1ec2-4d59-a744-b989f634ec32)
+
+
 #### From Software Applications to Hardware
 ### SoC design and OpenLANE
 ### Get familiar to open-source EDA tools
