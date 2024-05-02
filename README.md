@@ -52,5 +52,39 @@ Another interface between instructions and hardware is called HDL. The instructi
 ![Screenshot (6)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/07776bad-95fb-49ab-af48-b7d864edc36f)
 
 ### SoC design and OpenLANE
-### Get familiar to open-source EDA tools
+#### Introduction to all components of open-source digital ASIC design
+![Screenshot (7)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/faf1055b-b71c-4365-8a21-a303f1642168)
+* Register Transfer Level (RTL): It is a vital part of circuit design, and its verification ensures that a design meets all system requirements and specifications. RTL design flow can be used to assemble the top-level design, instantiate IP, or create modules.
+* PDK DATA: A PDK is a "Process Design Kit" - it's a set of libraries and associated data (model files, physical verification rule files, control files for various tools) to allow you to design in a particular technology. A flow is far more generic than that it could mean many things.
+* Electronic Design Automation (EDA) tools are used in ASIC design for tasks such as design, verification, and manufacturing.
+  * QFlow,OpenRoad, OpenLANE, Spice Simulator, SIC, Magic etc. these are some ASIC design tools.
+
+![Screenshot (8)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/e6c2671b-04af-43a7-a140-e2ba4260cc98)
+
+#### Simplified RTL2GDS flow
+![Screenshot (9)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/5f8866f7-9fd9-4654-9e04-442deedef135)
+ * Synthesis
+ * Floor and Power planning
+ * Placement
+ * Clock tree synthesis
+ * Routing
+ * Sign off
+#### Introduction to OpenLANE and Strive chipsets
+##### OpenLANE ASIC flow 
+   * Main goal:
+     * Produce clean GDSII with no-human in the loop
+   * Clean means:
+     * No LVS voilations
+     * No DRC violations
+
+Strive chipsets:
+
+![Screenshot (10)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/aca1dcbd-6a78-4b95-9761-dcd8a29758a0)
+
+#### Introduction to OpenLANE detailed ASIC design flow
+![Screenshot (11)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/cffb124a-e373-498f-8109-caea7d874fe8)
+The above block diagram shows the detailed design flow of ASIC.
+
+# DAY-2:
+
 
