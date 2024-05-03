@@ -84,6 +84,9 @@ Strive chipsets:
 #### Introduction to OpenLANE detailed ASIC design flow
 ![Screenshot (11)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/cffb124a-e373-498f-8109-caea7d874fe8)
 The above block diagram shows the detailed design flow of ASIC.
+### Preparation and Synthesis results:
+![preparation successfully](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/ea75981c-6c51-4f5f-8dbf-531d8f69bdf6)
+![Sythesis successful](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/0adb755f-2cc1-4b18-9bb7-8289ea9e6b9c)
 
 # DAY-2:
 ### Good floorplan vs bad floorplan and introduction to library cells: 
