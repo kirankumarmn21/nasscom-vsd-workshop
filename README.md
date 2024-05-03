@@ -86,5 +86,19 @@ Strive chipsets:
 The above block diagram shows the detailed design flow of ASIC.
 
 # DAY-2:
+### GOod floorplan vs bad floorplan and introduction to library cells: 
+  * Chip floorplanning considerations:
+    * define Width and Height of the core and die
+      
+       * Utilizaton factor=(Area occupied by netlist)/(total area of the core)
+      
+       * Aspect ratio=Height/width
+      
+    * define locations of preplaced cells
+    * Surround pre-placed cells with decoupling capacitors
+    * Power planning
+    * Pin placement
+    * Logical cell placement blockage
+    * Floor plan
 
 
