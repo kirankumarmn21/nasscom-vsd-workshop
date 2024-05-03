@@ -86,7 +86,7 @@ Strive chipsets:
 The above block diagram shows the detailed design flow of ASIC.
 
 # DAY-2:
-### GOod floorplan vs bad floorplan and introduction to library cells: 
+### Good floorplan vs bad floorplan and introduction to library cells: 
   * Chip floorplanning considerations:
     * define Width and Height of the core and die
       
