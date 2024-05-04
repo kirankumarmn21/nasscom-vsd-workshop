@@ -104,6 +104,8 @@ The above block diagram shows the detailed design flow of ASIC.
     * Logical cell placement blockage
     * Floor plan
     * Floorplan Layout in magic
+    
+![Floorplan commands](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/badb7d99-c8ce-4e67-a556-d04801c0e417)
 
 ![layout](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/e69d8319-198f-4067-a782-9099fa14c2cc)
   
@@ -115,6 +117,9 @@ The above block diagram shows the detailed design flow of ASIC.
     * Library characterization and modelling
   
   Placement:
+
+![Placement commands](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/d1470342-e79f-4bb6-b2ba-861d3a062d2d)
+
 
 ![Placement](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/1e44f30e-3331-4d88-a689-d311bd40f1b8)
 
