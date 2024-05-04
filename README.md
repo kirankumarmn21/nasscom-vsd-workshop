@@ -126,3 +126,8 @@ The above block diagram shows the detailed design flow of ASIC.
      * Characterization flow:
        
     ![Screenshot (12)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/d3088b8e-cc47-4959-8e85-ef1a24b19c6f)
+
+  * Transition timeand propogation delays are found at the following parameters by subtracting low thresholds by high thresholds.
+    
+    ![Screenshot 2024-05-04 170540](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/381bddb9-29ee-404c-b78a-5de9ba7b4826)
+
