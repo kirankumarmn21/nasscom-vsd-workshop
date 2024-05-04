@@ -144,3 +144,17 @@ The above block diagram shows the detailed design flow of ASIC.
   * Name 'nodes'
 
 ![Screenshot 2024-05-04 204900](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/5fcf0423-d9f3-4e0a-88a7-b03bb41c3ea9)
+
+## Inception os layout and CMOS fabrication process:
+ * Create active regions by masking
+ * Formation of N-well and P-well
+ * Formation of gate terminal
+ * Lightly doped drain(LLD) formation
+   - Two reasons for this
+     * Hot electron effect
+     * Short channel effect
+ * Source and drain formation
+ * steps to form contacts and interconnects(local)
+ * Higher level metal formation
+
+This is also called as 16-mask CMOS process
