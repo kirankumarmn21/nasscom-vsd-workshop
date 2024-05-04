@@ -136,3 +136,11 @@ The above block diagram shows the detailed design flow of ASIC.
     
     ![Screenshot 2024-05-04 170540](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/381bddb9-29ee-404c-b78a-5de9ba7b4826)
 
+# DAY-3:
+## SPICE deck (Inverter)
+  * Component connectivity
+  * Component values
+  * Identify 'nodes'
+  * Name 'nodes'
+
+![Screenshot 2024-05-04 204900](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/5fcf0423-d9f3-4e0a-88a7-b03bb41c3ea9)
