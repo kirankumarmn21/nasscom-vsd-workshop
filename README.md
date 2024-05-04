@@ -103,5 +103,17 @@ The above block diagram shows the detailed design flow of ASIC.
     * Pin placement
     * Logical cell placement blockage
     * Floor plan
+    * Floorplan Layout in magic
 
+![layout](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/e69d8319-198f-4067-a782-9099fa14c2cc)
+  
+  * Library Bindings and Placements:
+    * Bind netlist with physical cells (In Libarary)
+    * Placement
+    * Optimize placement
+      * This is the stage we estimate wire length and capacitance and based on that, insert repeaters.
+    * Library characterization and modelling
+  
+  Placement:
 
+![Placement](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/1e44f30e-3331-4d88-a689-d311bd40f1b8)
