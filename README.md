@@ -122,3 +122,7 @@ The above block diagram shows the detailed design flow of ASIC.
      * Cell design flow:
     
     ![Screenshot 2024-05-04 161027](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/354be99d-2ebb-4e5b-8327-7c0bbb672664)
+    
+     * Characterization flow:
+       
+    ![Screenshot (12)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/d3088b8e-cc47-4959-8e85-ef1a24b19c6f)
