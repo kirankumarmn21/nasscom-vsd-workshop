@@ -87,6 +87,9 @@ The above block diagram shows the detailed design flow of ASIC.
 ### Preparation and Synthesis results:
 ![preparation successfully](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/ea75981c-6c51-4f5f-8dbf-531d8f69bdf6)
 ![Sythesis successful](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/0adb755f-2cc1-4b18-9bb7-8289ea9e6b9c)
+![d flipflop](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/3a3b629b-94f3-473c-8e93-0a6a54c089c4)
+
+Ratio for the dfxtp_2 is 0.1084296853993009 and flop percentage is 10.84%.
 
 # DAY-2:
 ### Good floorplan vs bad floorplan and introduction to library cells: 
@@ -136,6 +139,12 @@ The above block diagram shows the detailed design flow of ASIC.
     
     ![Screenshot 2024-05-04 170540](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/381bddb9-29ee-404c-b78a-5de9ba7b4826)
 
+floorplan changed:
+![changed floorplan](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/eb17d5b0-30da-4a69-a715-4352f2b5032c)
+
+Placement changed according to the floorplan:
+![changed placement](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/af1a7271-1907-4215-a9e4-a1508d8bd14f)
+
 # DAY-3:
 ## SPICE deck (Inverter)
   * Component connectivity
@@ -158,3 +167,19 @@ The above block diagram shows the detailed design flow of ASIC.
  * Higher level metal formation
 
 This is also called as 16-mask CMOS process
+
+git clone of vsdstdcelldesign:
+Command on terminal in openlane from the URL:
+git clone https://github.com/nickson-jose/vsdstdcelldesign.git
+
+Layout got from the above git clone:
+
+![Inverter layot](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/7a81cf86-69c1-4f65-ae20-2333ad70a310)
+
+designing inverter in spice:
+
+![Code for inverter](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/85ba4758-0d28-45fe-9994-131e524d96f6)
+
+![Parameters of elaboration](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/6b75bea2-3105-4166-80dc-80526b9dec80)
+
+![Output plot of inverter](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/19ace2c4-ff73-4bac-a389-6881e094af80)
