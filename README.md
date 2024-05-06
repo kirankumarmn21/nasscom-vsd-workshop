@@ -183,3 +183,38 @@ designing inverter in spice:
 ![Parameters of elaboration](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/6b75bea2-3105-4166-80dc-80526b9dec80)
 
 ![Output plot of inverter](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/19ace2c4-ff73-4bac-a389-6881e094af80)
+
+## DAY-4:
+
+Track files command:
+
+![track files command](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/a3b5b368-d560-4bad-b65c-47a7eb7c2bb6)
+
+Track files to data to rounting:
+
+![track files data to routing](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/293afaa8-43bf-4c71-926d-469790c3d558)
+
+
+Changing grid information into track information
+
+![changed grid definiton](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/2f58eb7e-6c43-430b-aab9-c6293a75227b)
+
+Converting labels to ports:
+
+![converting labels to ports](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/ac6f229f-4c9b-4238-9b41-7c83deda141f)
+
+Creating mag file:
+
+![creating mag file](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/28a192d1-4dc0-41f9-9dd4-81a02c98a1af)
+
+Creating lef file:
+
+![creating lef file](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/30481f4d-7354-48ec-a0f6-f7a3797c678d)
+
+Length file is ready:
+
+![Length file is ready](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/76e052c8-e6c5-4fc1-a96d-c0c0ffd169ff)
+
+Charecterization of cell:
+
+![Characterization of cell](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/a6c35e32-f015-4ea3-a5bc-197f334c7996)
