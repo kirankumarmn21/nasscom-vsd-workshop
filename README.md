@@ -218,3 +218,66 @@ Length file is ready:
 Charecterization of cell:
 
 ![Characterization of cell](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/a6c35e32-f015-4ea3-a5bc-197f334c7996)
+
+Power aware CTS:
+
+![Screenshot (16)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/9deb6779-58bf-4d9b-b433-bf2c62c40d9f)
+
+Timing analysis (for ideal clocks):
+
+![Screenshot (18)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/e63723f4-e672-4a5d-bccc-a30ae4477bf6)
+
+Clock tree synthesis:
+
+![Screenshot (20)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/4b67119f-9a94-43ae-a338-fb928227c3f9)
+
+Clock net shield:
+
+![Screenshot (22)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/43c5e545-e99c-4530-9a27-2afecaa17b59)
+
+Timing analysis (With real clocks):
+
+![Screenshot (23)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/85443aa0-906f-40fc-9a30-4515989489a9)
+
+Route Maze Routing- Lee's Algorithm:
+
+![Screenshot (26)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/1e42a4fc-f645-4bcf-a6db-016788a2b254)
+
+DRC Clean:
+
+![Screenshot (28)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/237058c6-7f1e-4c1f-aeae-9248765d9bcd)
+
+Parasitics Extraction:
+
+![Screenshot (29)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/0e4a45cb-b177-4016-8e79-beb7477f30bf)
+
+## DAY-5:
+
+Triton ruote:
+
+![Screenshot (30)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/49cbca6f-7d21-4bd5-8853-8ea6e6fa70f1)
+
+Processed route guides:
+
+![Screenshot (31)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/7588f3c8-6409-4cb8-a0b2-364c36688b12)
+
+Inter-guide connectivity:
+
+![Screenshot (33)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/271cd80d-a58b-4a6a-beb2-aac6f0ff44d1)
+
+Routing:
+
+![Screenshot (34)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/a26db831-4950-4cf7-986c-ac7c8a024ff0)
+
+![Screenshot (35)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/7429586e-68b5-407d-a915-5ad46137b49f)
+
+Problem statement:
+
+![Screenshot (36)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/3274f18b-57bc-4a35-9bf7-30fca196868f)
+
+![Screenshot (37)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/cfb2709b-b436-42c7-ab99-79a2648834a3)
+
+Topology algorithm:
+
+![Screenshot (38)](https://github.com/kirankumarmn21/nasscom-vsd-workshop/assets/168124790/a5c2de18-361f-4ccd-aeb8-4a75bd8a661f)
+
